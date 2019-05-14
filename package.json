@@ -1,0 +1,30 @@
+{
+  "name": "coinmarketcal-nodejs",
+  "version": "0.0.1",
+  "description": "A node.js wrapper for CoinMarketCal New API @ https://developers.coinmarketcal.com/.",
+  "keywords": [
+    "bitcoin",
+    "bitcoin events",
+    "coinmarketcal",
+    "coinmarketcap",
+    "cryptocurrency",
+    "crypto currency",
+    "cryptocurrency calendar",
+    "cryptocurrency events"
+  ],
+  "main": "index.js",
+  "author": "Pavle Aleksic - https://github.com/pavlealeksic/",
+  "homepage": "https://github.com/pavlealeksic/coinmarketcal-nodejs#readme",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.85.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pavlealeksic/coinmarketcal-nodejs"
+  },
+  "bugs": {
+    "url": "https://github.com/pavlealeksic/coinmarketcal-nodejs/issues",
+    "email": "pavlealeksic@live.com"
+  }
+}
